@@ -1,5 +1,8 @@
+// Components
+import Header from './components/header/header.components'
+
 const App = () => {
-  return <h1>Hello world !!!</h1>
+  return <Header/>
 }
 
 export default App
